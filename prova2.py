@@ -5,6 +5,7 @@ from tkinter import messagebox
 
 cadrastro= tk.Tk()
 cadrastro.title("dados pessoais")
+cadrastro.minsize(200,200)
 cadrastro.configure(background="blue")
 def enviar():
    nome = entrada_nome.get()
