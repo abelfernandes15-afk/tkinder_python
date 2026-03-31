@@ -57,6 +57,6 @@ tk.Radiobutton(cadrastro,text="masculino",font="arial",value=1,variable=dd)\
 tk.Radiobutton(cadrastro,text="feminino",font=("arial"),value=2,variable=dd)\
     .grid(row=18,column=1)
 
-tk.Button(cadrastro,text="usuario cadrastado",command=enviar).grid(row=19,column=1,pady=20)
+tk.Button(cadrastro,text="cadrastar",command=enviar).grid(row=19,column=1,pady=20)
 
 cadrastro.mainloop()

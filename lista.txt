@@ -1,0 +1,201 @@
+
+1,Arroz 5kg,34,24.90
+2,Feijao 1kg,52,7.50
+3,Macarrao 500g,61,4.20
+4,Oleo 900ml,48,6.80
+5,Acucar 1kg,70,4.50
+6,Cafe 500g,39,12.90
+7,Leite 1L,85,5.20
+8,Manteiga 200g,44,9.90
+9,Margarina 500g,58,6.70
+10,Farinha de Trigo,63,5.30
+11,Fuba,41,3.90
+12,Sal,90,2.20
+13,Achocolatado,36,7.80
+14,Biscoito Recheado,75,3.50
+15,Biscoito Salgado,66,4.10
+16,Refrigerante 2L,55,8.90
+17,Suco 1L,49,6.50
+18,Agua 500ml,120,2.00
+19,Cerveja Lata,95,3.20
+20,Detergente,80,2.70
+21,Sabao em Po,42,11.50
+22,Amaciante,33,13.90
+23,Desinfetante,60,5.60
+24,Esponja,110,1.80
+25,Papel Higienico,38,16.90
+26,Shampoo,45,12.50
+27,Condicionador,40,13.20
+28,Sabonete,130,2.50
+29,Creme Dental,100,3.20
+30,Escova de Dente,70,4.50
+31,Frango 1kg,50,9.90
+32,Carne Bovina 1kg,28,32.90
+33,Linguiça 1kg,37,18.50
+34,Ovos 12un,65,9.00
+35,Queijo Mussarela,22,39.90
+36,Presunto,30,29.90
+37,Iogurte,90,2.80
+38,Leite Condensado,55,6.90
+39,Creme de Leite,60,4.20
+40,Molho de Tomate,75,3.10
+41,Ketchup,43,6.00
+42,Mostarda,48,4.50
+43,Maionese,39,7.80
+44,Arroz Integral,28,6.70
+45,Granola,20,12.00
+46,Aveia,34,4.80
+47,Barra de Cereal,95,1.90
+48,Chocolate Barra,88,5.20
+49,Bala Sortida,26,9.90
+50,Pipoca,45,3.30
+51,Cenoura 1kg,55,4.00
+52,Batata 1kg,60,5.50
+53,Cebola 1kg,48,4.90
+54,Tomate 1kg,52,6.20
+55,Alface,70,2.50
+56,Repolho,33,3.80
+57,Abobrinha,25,5.90
+58,Beringela,21,6.30
+59,Pimentao,40,3.20
+60,Alho,35,4.50
+61,Banana,68,3.90
+62,Maca,74,6.70
+63,Laranja,80,4.20
+64,Uva,45,9.80
+65,Melancia,15,12.00
+66,Melao,18,10.50
+67,Manga,55,3.00
+68,Abacaxi,32,5.50
+69,Pao Frances,90,8.00
+70,Pao de Forma,60,7.50
+71,Bolo Pronto,35,12.90
+72,Torrada,50,5.00
+73,Mel,20,14.90
+74,Geleia,28,9.50
+75,Cha,65,4.80
+76,Cafe Soluvel,30,11.90
+77,Energetico,40,7.00
+78,Isotonico,45,5.50
+79,Agua de Coco,38,6.80
+80,Farinha de Mandioca,50,5.20
+81,Milho Verde,60,3.80
+82,Ervilha,55,3.60
+83,Atum,42,7.20
+84,Sardinha,48,5.90
+85,Caldo,70,2.80
+86,Tempero,65,3.50
+87,Pimenta,35,4.00
+88,Vinagre,55,3.20
+89,Azeite,30,18.90
+90,Massa Lasanha,25,6.50
+91,Massa Pizza,20,7.20
+92,Queijo Ralado,40,6.80
+93,Coco Ralado,38,4.90
+94,Leite em Po,45,14.00
+95,Sorvete,28,19.90
+96,Picole,90,2.50
+97,Gelo,35,4.00
+98,Suco Uva,50,6.50
+99,Suco Manga,45,6.50
+100,Suco Goiaba,40,6.50
+101,Arroz Branco,60,23.00
+102,Feijao Preto,55,8.00
+103,Macarrao Penne,48,4.50
+104,Oleo Milho,35,7.20
+105,Acucar Mascavo,30,6.90
+106,Cafe Premium,25,15.00
+107,Leite Desnatado,70,5.30
+108,Manteiga Light,22,10.50
+109,Margarina Light,40,7.00
+110,Farinha Integral,33,6.50
+111,Fuba Mimoso,29,4.20
+112,Sal Grosso,45,3.50
+113,Achocolatado Po,36,8.00
+114,Biscoito Chocolate,60,4.00
+115,Biscoito Integral,50,4.50
+116,Refrigerante Lata,75,4.00
+117,Suco Natural,65,7.50
+118,Agua 1L,80,2.50
+119,Cerveja Long Neck,55,5.00
+120,Detergente Neutro,90,3.00
+121,Sabao Liquido,35,12.50
+122,Amaciante Concentrado,28,15.00
+123,Desinfetante Lavanda,60,6.00
+124,Esponja Dupla Face,100,2.00
+125,Papel Toalha,45,5.90
+126,Shampoo Anticaspa,30,14.00
+127,Condicionador Hidratante,35,14.50
+128,Sabonete Liquido,50,6.00
+129,Creme Dental Branqueador,60,4.00
+130,Escova Macia,55,5.00
+131,Frango File,40,12.00
+132,Carne Moida,35,28.00
+133,Linguiça Toscana,30,20.00
+134,Ovos 30un,25,20.00
+135,Queijo Prato,20,35.00
+136,Presunto Cozido,28,27.00
+137,Iogurte Natural,70,3.00
+138,Leite Condensado Light,40,7.50
+139,Creme de Leite Light,45,4.80
+140,Molho Bolonhesa,50,4.50
+141,Ketchup Picante,35,6.50
+142,Mostarda Escura,30,5.00
+143,Maionese Light,28,8.50
+144,Arroz Parboilizado,22,7.50
+145,Granola Tradicional,18,13.00
+146,Aveia Grossa,25,5.20
+147,Barra Proteica,40,3.50
+148,Chocolate Amargo,45,6.50
+149,Bala Gelatina,35,10.00
+150,Pipoca Microondas,60,4.00
+151,Cenoura Orgânica,30,5.00
+152,Batata Doce,45,6.00
+153,Cebola Roxa,40,5.50
+154,Tomate Cereja,35,7.00
+155,Alface Crespa,50,3.00
+156,Repolho Roxo,25,4.50
+157,Abobrinha Italiana,30,6.20
+158,Beringela Roxa,20,6.80
+159,Pimentao Verde,45,3.50
+160,Alho Descascado,30,6.00
+161,Banana Prata,60,4.20
+162,Maca Gala,55,7.20
+163,Laranja Pera,70,4.80
+164,Uva Verde,35,10.50
+165,Melancia Grande,10,15.00
+166,Melao Amarelo,12,12.00
+167,Manga Palmer,40,3.50
+168,Abacaxi Perola,28,6.00
+169,Pao Integral,50,9.00
+170,Pao de Forma Integral,45,8.50
+171,Bolo Chocolate,30,15.00
+172,Torrada Integral,35,6.00
+173,Mel Puro,15,18.00
+174,Geleia Morango,20,11.00
+175,Cha Verde,40,5.50
+176,Cafe Capsula,25,20.00
+177,Energetico Zero,30,8.00
+178,Isotonico Laranja,35,6.00
+179,Agua de Coco Natural,25,7.50
+180,Farinha Milho,30,5.80
+181,Milho Pipoca,40,3.50
+182,Ervilha Congelada,35,5.00
+183,Atum Solido,25,8.00
+184,Sardinha Molho,30,6.50
+185,Caldo Carne,50,3.20
+186,Tempero Caseiro,45,4.50
+187,Pimenta Calabresa,30,4.80
+188,Vinagre Maca,35,4.20
+189,Azeite Extra Virgem,20,22.00
+190,Massa Talharim,25,5.50
+191,Massa Parafuso,30,5.20
+192,Queijo Parmesao,20,12.00
+193,Coco Seco,25,6.50
+194,Leite Condensado Diet,20,8.50
+195,Sorvete Chocolate,22,21.00
+196,Picole Fruta,40,3.00
+197,Gelo Triturado,30,5.00
+198,Suco Abacaxi,35,6.50
+199,Suco Maracuja,30,6.80
+200,Suco Acerola,28,6.90
